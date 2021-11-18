@@ -1,6 +1,5 @@
-# Salary_Prediction
+# Predicting an Employee's Salary using Simple Linear Regression.  (Level- Beginners)
 
-## Predicting an Employee's Salary using Simple Linear Regression.  (Level- Beginners)
 ### We have to predict the salary of an employee given how many years of experience they have.
 
 
