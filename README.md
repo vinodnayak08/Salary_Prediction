@@ -4,7 +4,7 @@
 ### We have to predict the salary of an employee given how many years of experience they have.
 
 
-### Steps to be followed are: 
+### *Steps to be followed are:*
 
 *1. Load the Dataset*
 
